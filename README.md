@@ -1,5 +1,6 @@
 # logica-de-programacao
-Introdução a lógica de programação
+Introdução a lógica de programação com base conforme vídeo aula no link abaixo: 
+https://www.youtube.com/watch?v=XzkZO2qjgec
 
 Os dados lógicos, também conhecidos como tipos booleanos, funcionam como uma base binária para a tomada de decisões em um programa
 . De acordo com as fontes, aqui estão os detalhes fundamentais sobre como eles operam:
